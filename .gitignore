@@ -1,0 +1,29 @@
+# Python
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    .Python/
+    env/
+    venv/
+    *.egg-info/
+    .pytest_cache/
+
+    # Operating System Files
+    .DS_Store
+    Thumbs.db
+
+    # IDEs
+    .idea/
+    .vscode/
+    *.sublime-project
+    *.sublime-workspace
+
+    # Logs and databases
+    *.log
+    *.sqlite3
+    *.db
+
+    # Sensitive files (if any, though not for this project yet)
+    # .env
+    
